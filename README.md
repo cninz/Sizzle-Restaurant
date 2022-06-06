@@ -9,4 +9,4 @@ Static website to look at the menu, determine direction of the restaurant and di
 
 **Tech used:** HTML, CSS, JavaScript, Framework of choice
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If
+
