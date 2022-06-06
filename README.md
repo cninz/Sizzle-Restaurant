@@ -7,6 +7,5 @@ Static website to look at the menu, determine direction of the restaurant and di
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
+**Tech used:** HTML, CSS, JavaScript
 
